@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Divya
 - 👀 I’m interested in Coding
-- 🌱 I’m currently Studying MCA
-- 📫 How to reach me divyadarshinis.6@gmail.com
+- 🌱 MCA Graduate 
+- 📫 How to reach me divyadarshinis.26@gmail.com
 
 <!---
 divyas2602/divyas2602 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
